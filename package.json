@@ -21,6 +21,6 @@
     "chai": "3.5.0"
   },
   "dependencies": {
-    "mocha-multi": "^1.0.1"
+    "mocha-multi": "^1.1.3"
   }
 }
